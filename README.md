@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Neha Gaddam</h1>
+<ul>
+  <li>
+    Third year CSE student @wce sangli </li>
+  <li>Full stack web developer </li>
+  <li>Competitive programmer Enthusiast Reader</li>
+</ul>
 
-<!--
-**Nehagaddam2909/Nehagaddam2909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nehagaddam2909&show_icons=true&locale=en&theme=radical"  />
 
-Here are some ideas to get you started:
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nehagaddam2909&theme=radical" alt="nehagaddam2909" />
+</a> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
