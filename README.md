@@ -1,4 +1,4 @@
-<img src="https://github.com/Nehagaddam2909/Nehagaddam2909/blob/main/neha.gif" />
+<img src="https://github.com/Nehagaddam2909/Nehagaddam2909/blob/main/neha_gaddam.gif" />
 <h1>Hi 👋!</h1>
 
   ##   About Me
