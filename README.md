@@ -15,8 +15,8 @@
   
  <ul>
   <li>👩‍💻 C, C++, JavaScript, Python</li>
-  <li>⚙️ Node, Express </li>
-  <li>👁️ CSS, SASS</li>
+  <li>⚙️ MERN, Django </li>
+  <li>👁️ CSS, SASS, Tailwind CSS</li>
   <li>💽 MySQL, SQL, NoSQL </li>
  </ul>
   
