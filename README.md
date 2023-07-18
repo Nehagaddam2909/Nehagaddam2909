@@ -1,7 +1,7 @@
 <!--<img src="https://github.com/Nehagaddam2909/Nehagaddam2909/blob/main/neha_gaddam.gif" />-->
 <h1>Hi 👋!</h1>
 <div align="right"><a href="https://app.daily.dev/gaddam_neha_29">
-  <img src="https://api.daily.dev/devcards/091db1443e2c4d3bbd900215d58a6fd9.png?r=q7q" width="350" alt="Neha Gaddam's Dev Card" align="right"/>
+  <img src="https://api.daily.dev/devcards/091db1443e2c4d3bbd900215d58a6fd9.png?r=q7q" width="300" alt="Neha Gaddam's Dev Card" align="right"/>
 </a></div>
 
   ##   About Me
